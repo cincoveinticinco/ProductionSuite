@@ -1,0 +1,506 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 18-DEC-2015 09:29:26
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 18-DEC-2015 09:29:28
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 18-DEC-2015 09:29:36
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 18-DEC-2015 09:29:40
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 18-DEC-2015 09:29:45
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 18-DEC-2015 09:29:50
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 18-DEC-2015 09:30:19
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 09:50:01  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 24 / 45 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 09:50:01  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 24 / 45 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 24 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 09:50:01  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 24 / 45 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 24 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 41 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 09:50:01  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 24 / 45 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 24 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 41 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 43 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 09:50:01  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 24 / 45 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 24 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 41 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 43 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 44.03 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 09:50:01  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 24 / 45 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 24 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 41 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 43 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 44.03 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 45.01 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 09:50:01  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 24 / 45 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 24 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 41 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 43 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 44.03 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 45.01 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 31 / 46 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 09:57:11  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 19 / 6 ELIMINADA DEL PLAN UNIDAD 2 12-Jan-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 09:57:11  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 19 / 7 ELIMINADA DEL PLAN UNIDAD 2 12-Jan-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:14:26  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 13-Jan-2016 A PLAN DIARIO  UNIDAD 1 14-Jan-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:20:22  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 12-Jan-2016 A PLAN DIARIO  UNIDAD 1 13-Jan-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 25.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 25.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 12 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 25.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 12 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 30 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 25.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 12 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 30 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 51 / 11 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 25.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 12 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 30 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 51 / 11 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 9 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 25.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 12 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 30 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 51 / 11 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 9 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 55 / 18 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 25.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 12 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 30 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 51 / 11 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 9 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 55 / 18 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 56 / 1.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 25.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 12 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 30 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 51 / 11 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 9 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 55 / 18 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 56 / 1.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 25.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 12 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 30 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 51 / 11 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 9 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 55 / 18 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 56 / 1.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 57 / 21 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:28:51  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 12-Jan-2016 CREADO.
+ ESCENA 48 / 29 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 30.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 31.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 26 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 48 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.02 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 31.03 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 16.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 25.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 49 / 12 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 30 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 51 / 11 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 53 / 9 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 55 / 18 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 56 / 1.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 50 / 28.01 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 57 / 21 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+ ESCENA 57 / 37 AGREAGADA AL PLAN UNIDAD 1 12-Jan-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:33:05  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 53 / 26 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:33:05  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 53 / 26 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 54 / 1 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:33:05  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 53 / 26 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 54 / 1 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+ ESCENA 54 / 39.02 AGREAGADA AL PLAN UNIDAD 1 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 10:35:41  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 12-Jan-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 11:56:23  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 16 / 7 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 11:56:23  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 16 / 7 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 7.01 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 11:56:23  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 16 / 7 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 7.01 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 8 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 11:56:23  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 16 / 7 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 7.01 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 8 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 8.01 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 11:56:23  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 16 / 7 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 7.01 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 8 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 8.01 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 9 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 11:56:23  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 16 / 7 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 7.01 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 8 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 8.01 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 9 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 10 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 11:56:23  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 16 / 7 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 7.01 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 8 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 8.01 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 9 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 16 / 10 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+ ESCENA 17 / 25 AGREAGADA AL PLAN UNIDAD 2 31-Dec-1969
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 11:56:59  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 14-Jan-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 18:12:33  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 48/13.01 CANCELADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 18:14:47  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 48/16.04 CANCELADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 18-DEC-2015 18:14:57  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 48/16.05 CANCELADA.
+______________________________________________________________________________________________________________

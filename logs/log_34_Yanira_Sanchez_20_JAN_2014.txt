@@ -1,0 +1,1352 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 20-JAN-2014 09:14:00
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:14:49  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 PUBLICADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:15:03  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 79 / 44 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:15:21  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 79 / 45 ASIGNADO TIEMPO REAL 03:20 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:15:32  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 0 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:15:45  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 16 ASIGNADO TIEMPO REAL 00:40 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:15:55  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 17 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:16:06  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 21 ASIGNADO TIEMPO REAL 00:20 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:16:16  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 24.1 ASIGNADO TIEMPO REAL 00:25 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:16:29  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 24.1 ASIGNADO TIEMPO REAL 00:20 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:16:39  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 25 ASIGNADO TIEMPO REAL 00:20 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:16:48  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 26.1 ASIGNADO TIEMPO REAL 00:20 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:16:57  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 27 ASIGNADO TIEMPO REAL 00:20 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:17:06  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 32 ASIGNADO TIEMPO REAL 00:07 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:17:15  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 32.1 ASIGNADO TIEMPO REAL 00:08 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:17:29  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 34.1 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:17:39  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 35 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:17:50  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 35.1 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:18:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 47.1 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 1 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:18:35  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 74 / 32 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 74 / 32 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 5 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 74 / 32 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 5 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 13 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 74 / 32 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 5 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 13 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 22 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 74 / 32 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 5 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 13 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 22 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 23.1 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 74 / 32 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 5 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 13 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 22 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 23.1 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 31 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 74 / 32 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 5 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 13 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 22 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 23.1 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 31 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 43 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 74 / 32 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 5 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 13 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 22 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 23.1 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 31 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 43 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 76 / 2 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 74 / 32 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 5 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 13 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 22 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 23.1 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 31 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 43 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 76 / 2 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 76 / 3.1 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:23  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 74 / 32 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 5 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 13 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 22 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 23.1 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 31 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 75 / 43 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 76 / 2 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 76 / 3.1 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+ ESCENA 76 / 13 AGREAGADA AL PLAN UNIDAD 2 14-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:23:49  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 24 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:24:06  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 74 / 32 ASIGNADO TIEMPO REAL 00:40 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:24:18  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 5 ASIGNADO TIEMPO REAL 01:30 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:24:30  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 13 ASIGNADO TIEMPO REAL 01:10 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:24:43  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 22 ASIGNADO TIEMPO REAL 01:05 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:24:54  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 23.1 ASIGNADO TIEMPO REAL 00:15 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:25:05  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 31 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:25:17  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 43 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:25:29  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 76 / 2 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:25:43  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 76 / 3.1 ASIGNADO TIEMPO REAL 00:40 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:25:53  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 76 / 13 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 2 14-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:26:29  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 2 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 21.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 21.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 24 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 21.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 24 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 25.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 21.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 24 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 25.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 26 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 21.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 24 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 25.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 26 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 27.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 21.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 24 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 25.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 26 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 27.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 34 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 21.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 24 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 25.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 26 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 27.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 34 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 35.2 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 21.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 24 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 25.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 26 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 27.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 34 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 35.2 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 40 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 21.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 24 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 25.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 26 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 27.1 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 34 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 35.2 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 40 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 80 / 47.2 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+PLAN DIARIO UNIDAD 1 15-Jan-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:37  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 32 AGREAGADA AL PLAN UNIDAD 1 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:28:46  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 PUBLICADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:29:01  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 8 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:29:10  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 21.1 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:29:20  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 24 ASIGNADO TIEMPO REAL 00:40 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:29:28  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 25.1 ASIGNADO TIEMPO REAL 00:50 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:29:37  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 26 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:29:45  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 27.1 ASIGNADO TIEMPO REAL 00:40 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:29:54  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 34 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:30:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 35.2 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:30:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 40 ASIGNADO TIEMPO REAL 10:20 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:30:32  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 47.2 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:30:43  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 32 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:31:16  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 7 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 7 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 29 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 7 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 29 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 7 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 29 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 37 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 7 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 29 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 37 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 6 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 7 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 29 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 37 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 6 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 14 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 7 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 29 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 37 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 6 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 14 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 24 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 7 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 29 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 37 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 6 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 14 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 24 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 80 / 22.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:33:19  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 76 / 43 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 12 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 32 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 77 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 7 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 29 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 36.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 78 / 37 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 6 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 14 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 79 / 24 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 80 / 22.1 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+ ESCENA 80 / 23 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:34:01  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 75 / 38 ASIGNADO TIEMPO REAL 00:55 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:34:16  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 76 / 43 ASIGNADO TIEMPO REAL 00:23 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:34:27  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 12 ASIGNADO TIEMPO REAL 01:32 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:34:39  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 32 ASIGNADO TIEMPO REAL 00:32 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:34:59  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 36.1 ASIGNADO TIEMPO REAL 00:45 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:35:10  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 78 / 7 ASIGNADO TIEMPO REAL 00:23 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:35:24  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 78 / 29 ASIGNADO TIEMPO REAL 00:26 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:35:38  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 78 / 37 ASIGNADO TIEMPO REAL 00:12 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:35:52  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 78 / 36.1 ASIGNADO TIEMPO REAL 00:05 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:36:03  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 79 / 6 ASIGNADO TIEMPO REAL 00:22 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:36:14  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 79 / 14 ASIGNADO TIEMPO REAL 00:25 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:36:26  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 79 / 24 ASIGNADO TIEMPO REAL 00:35 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:36:41  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 22.1 ASIGNADO TIEMPO REAL 00:13 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:36:52  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 80 / 23 ASIGNADO TIEMPO REAL 00:20 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:38:03  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 57 / 38 AGREAGADA AL PLAN UNIDAD 3 15-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:38:16  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 57 / 38 ASIGNADO TIEMPO REAL 00:27 EN PLAN DIARIO UNIDAD 3 15-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:39:12  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:41:29  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 38.1 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:41:29  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 38.1 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+ ESCENA 77 / 39.2 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:41:29  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 38.1 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+ ESCENA 77 / 39.2 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+ ESCENA 77 / 40.2 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:41:29  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 38.1 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+ ESCENA 77 / 39.2 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+ ESCENA 77 / 40.2 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+ ESCENA 79 / 29 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:41:29  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 38.1 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+ ESCENA 77 / 39.2 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+ ESCENA 77 / 40.2 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+ ESCENA 79 / 29 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+ ESCENA 79 / 38 AGREAGADA AL PLAN UNIDAD 1 16-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:42:02  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 38.1 ASIGNADO TIEMPO REAL 00:15 EN PLAN DIARIO UNIDAD 1 16-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:42:16  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 39.2 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 16-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:42:25  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 77 / 40.2 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 16-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:42:39  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 79 / 29 ASIGNADO TIEMPO REAL 02:30 EN PLAN DIARIO UNIDAD 1 16-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:42:50  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 79 / 38 ASIGNADO TIEMPO REAL 00:40 EN PLAN DIARIO UNIDAD 1 16-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:43:18  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 09:47:58  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:09:09  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:09:32  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:09:49  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 66 / 35 AGREAGADA AL PLAN UNIDAD 3 13-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:10:00  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 66 / 35 ASIGNADO TIEMPO REAL 00:45 EN PLAN DIARIO UNIDAD 3 13-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:10:33  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:10:59  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 2 02-Sep-2013 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:11:18  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 57 / 7 AGREAGADA AL PLAN UNIDAD 2 06-Jan-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:11:42  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 57 / 7 ASIGNADO TIEMPO REAL 00:05 EN PLAN DIARIO UNIDAD 2 06-Jan-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:11:53  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 2 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:12:44  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 4 02-Sep-2013 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:13:00  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 55 / 27 AGREAGADA AL PLAN UNIDAD 4 01-Dec-2013
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:13:08  190.26.220.34  LA VIUDA NEGRA
+
+ ESCENA 55 / 27 ASIGNADO TIEMPO REAL 00:01 EN PLAN DIARIO UNIDAD 4 01-Dec-2013.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 10:26:18  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ LIBRETO 36 SE AGREGA DOCUMENTO LIBRETO Produccion_233_Capitulo_36.docx.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 20-JAN-2014 11:17:33
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:23:20  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/1 CREADA.
+ LIBRETO 36 EN PROGRESO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:25:52  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/2 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:28:07  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/3 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:30:16  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ SET CTO DANIELA CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:33:42  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/4 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:35:05  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/5 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:35:43  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ ESCENA 36/5 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:37:13  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/5.1 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:39:55  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/6 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:42:17  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/7 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:43:52  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/8 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:47:19  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/9 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:49:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/10 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:50:53  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/11 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:52:37  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/12 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:55:55  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/13 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 11:58:47  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/14 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:02:14  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/15 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:05:18  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/16 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:09:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/17 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:10:53  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/17.1 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:14:20  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/18 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:16:22  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/19 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:17:10  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ SET TIENDAS CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:17:53  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/19.1 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:18:27  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ SET CALLE- SEMAFOROS CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:18:58  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/19.2 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:20:39  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/19.3 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:21:32  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ SET CALLES NORTE CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:22:31  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/20 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:23:37  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/20.1 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:24:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ SET LOCALES COMERCIALES CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:24:38  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/20.2 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:25:20  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/20.3 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:26:31  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ SET CALLE- ESQUINA CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:33:31  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/21 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:36:55  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/22 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:39:02  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/23 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:39:29  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ ESCENA 36/21 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:40:54  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ ESCENA 36/23 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:42:41  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/24 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 12:44:34  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/25 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:25:34  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/26 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:29:37  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/27 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:31:30  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/28 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:32:47  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/29 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:34:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/30 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:34:38  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ SET CALLEJON CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:36:38  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/31 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:37:52  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/32 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:38:32  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ LOCACIÓN TABERNA CREADA.
+ SET INTERIOR CREADO.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:40:24  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/33 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:42:59  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/34 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:43:30  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ SET FACHADA CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:45:36  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/35 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:46:58  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/36 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:52:27  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/37 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 15:54:51  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/38 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:07:23  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/39 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:10:39  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ ESCENA 36/39 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:15:05  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/40 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:19:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/41 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:23:12  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/42 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:24:25  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ ESCENA 36/41 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:24:45  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ ESCENA 36/39 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:25:22  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ ESCENA 36/37 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:28:14  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/43 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:30:11  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/44 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:31:48  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/45 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:32:50  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ ESCENA 36/45 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:36:12  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/46 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:37:41  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/47 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:42:38  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/48 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:45:06  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/49 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:46:31  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/50 CREADA.
+ LIBRETO 36 DESGLOSADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:48:54  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/51 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:50:48  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/52 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:52:16  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/52.1 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:54:12  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/52.2 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:55:26  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ ESCENA 36/51 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:58:05  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/53 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 16:58:43  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+
+ ESCENA 36/51 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:04:11  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/54 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:06:59  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/55 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:08:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/56 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:09:30  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/57 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:12:00  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 2
+ ESCENA 36/58 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:13:38  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:14:38  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 2 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:15:26  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:23:20  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:24:06  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:24:27  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:25:42  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 2 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:26:23  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 2 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:27:10  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 2 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:30:02  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:30:46  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:31:24  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:32:15  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:33:25  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:37:19  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:37:40  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:38:02  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 3 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:42:14  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 2 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:42:32  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 4 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:46:59  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 2 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:47:22  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 2 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 20-JAN-2014 17:48:42  190.26.220.34  LA VIUDA NEGRA
+
+ PLAN UNIDAD 1 02-Sep-2013 CERRADO.
+______________________________________________________________________________________________________________

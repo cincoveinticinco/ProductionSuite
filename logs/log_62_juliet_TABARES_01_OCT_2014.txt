@@ -1,0 +1,2996 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 01-OCT-2014 08:44:24
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 01-OCT-2014 08:44:29
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 01-OCT-2014 08:44:36
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 01-OCT-2014 09:30:29
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:34:05  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:34:24  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1 / 25.01 ASIGNADO TIEMPO REAL 00:01 EN PLAN DIARIO UNIDAD 2 29-Sep-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:34:40  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:45:36  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 20/13 ELIMINADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 28 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 28 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 37 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 28 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 37 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 65 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 28 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 37 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 65 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 28 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 37 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 65 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 73.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 28 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 37 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 65 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 73.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 77 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 28 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 37 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 65 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 73.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 77 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 28 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 37 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 65 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 73.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 77 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 83 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 28 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 37 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 65 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 73.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 77 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 83 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 25.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:54:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 20-Oct-2014 CREADO.
+ ESCENA 1 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 1 / 81 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 1 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 24 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 5 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 12 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 28 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 37 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 65 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 73.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 77 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 79 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 25 / 83 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 25.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 26 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:58:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 26 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:58:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 26 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 46 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:58:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 26 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 46 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:58:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 26 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 46 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 27 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:58:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 26 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 46 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 27 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 27 / 2.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:58:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 26 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 46 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 27 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 27 / 2.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 27 / 43 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 09:58:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 26 / 24 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 46 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 26 / 69 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 27 / 2 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 27 / 2.01 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 27 / 43 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+ ESCENA 27 / 49 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 10:07:18  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 22 / 7 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 10:07:43  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 22 / 10 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 10:08:02  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 23 / 33 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 10:08:32  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 24 / 31 AGREAGADA AL PLAN UNIDAD 2 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 10:11:36  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 10:16:38  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:11:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 21-Oct-2014 CREADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 15.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 28 / 20 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 40.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 40.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 42 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 40.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 42 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 42.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 22-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 40.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 42 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 42.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+ ESCENA 28 / 42.02 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:23:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 21-Oct-2014 CREADO.
+ ESCENA 1 / 64 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:23:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 21-Oct-2014 CREADO.
+ ESCENA 1 / 64 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 1 / 65 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:23:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 21-Oct-2014 CREADO.
+ ESCENA 1 / 64 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 1 / 65 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 21 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:23:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 21-Oct-2014 CREADO.
+ ESCENA 1 / 64 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 1 / 65 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 21 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 22 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:23:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 21-Oct-2014 CREADO.
+ ESCENA 1 / 64 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 1 / 65 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 21 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 22 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 25 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:23:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 21-Oct-2014 CREADO.
+ ESCENA 1 / 64 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 1 / 65 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 21 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 22 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 25 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 18 / 41 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:23:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 21-Oct-2014 CREADO.
+ ESCENA 1 / 64 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 1 / 65 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 21 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 22 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 25 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 18 / 41 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 18 / 43 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:23:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 21-Oct-2014 CREADO.
+ ESCENA 1 / 64 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 1 / 65 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 21 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 22 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 25 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 18 / 41 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 18 / 43 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 18 / 44.01 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:23:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 21-Oct-2014 CREADO.
+ ESCENA 1 / 64 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 1 / 65 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 21 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 22 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 7 / 25 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 18 / 41 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 18 / 43 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 18 / 44.01 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+ ESCENA 18 / 46 AGREAGADA AL PLAN UNIDAD 1 21-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:40:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 4 20-Oct-2014 CREADO.
+ ESCENA 1 / 25.02 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:40:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 4 20-Oct-2014 CREADO.
+ ESCENA 1 / 25.02 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.04 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:40:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 4 20-Oct-2014 CREADO.
+ ESCENA 1 / 25.02 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.04 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.05 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:40:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 4 20-Oct-2014 CREADO.
+ ESCENA 1 / 25.02 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.04 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.05 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 2 / 3 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:40:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 4 20-Oct-2014 CREADO.
+ ESCENA 1 / 25.02 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.04 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.05 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 2 / 3 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 9 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:40:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 4 20-Oct-2014 CREADO.
+ ESCENA 1 / 25.02 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.04 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.05 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 2 / 3 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 9 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 17 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:40:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 4 20-Oct-2014 CREADO.
+ ESCENA 1 / 25.02 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.04 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.05 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 2 / 3 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 9 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 17 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 23 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:40:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 4 20-Oct-2014 CREADO.
+ ESCENA 1 / 25.02 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.04 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.05 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 2 / 3 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 9 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 17 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 23 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 23.01 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:40:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 4 20-Oct-2014 CREADO.
+ ESCENA 1 / 25.02 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.04 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 1 / 25.05 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 2 / 3 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 9 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 17 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 23 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 23.01 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 4 / 25 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 60 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 60 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 60 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 3 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 60 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 3 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 10 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 60 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 3 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 10 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 11 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 60 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 3 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 10 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 11 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 60 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 3 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 10 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 11 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 7 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 60 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 3 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 10 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 11 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 7 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 8 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 60 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 3 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 10 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 11 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 7 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 8 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 9 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:46:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 20-Oct-2014 CREADO.
+ ESCENA 4 / 54 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 56 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 58 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 4 / 60 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 3 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 10 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 5 / 11 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 7 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 8 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 9 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 6 / 11 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:56:02  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1 / 26.02 AGREAGADA AL PLAN UNIDAD 1 08-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 11:56:02  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1 / 26.02 AGREAGADA AL PLAN UNIDAD 1 08-Oct-2014
+ ESCENA 1 / 26.03 AGREAGADA AL PLAN UNIDAD 1 08-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:29:50  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:30:57  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 01-OCT-2014 12:35:51
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:54:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 11 ELIMINADA DEL PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:54:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 6 ELIMINADA DEL PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:54:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 9 ELIMINADA DEL PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:54:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 8 ELIMINADA DEL PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:54:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 7 ELIMINADA DEL PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:55:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 23.01 ELIMINADA DEL PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:55:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 17 ELIMINADA DEL PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:55:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 23 ELIMINADA DEL PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:55:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 25 ELIMINADA DEL PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:55:40  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 17 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:55:53  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 23 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:56:16  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 23.01 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:56:38  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 25 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:57:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:58:03  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:59:05  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 23.01 ELIMINADA DEL PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:59:05  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 17 ELIMINADA DEL PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:59:05  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 23 ELIMINADA DEL PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 12:59:05  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 25 ELIMINADA DEL PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:06:10  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 62 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:06:10  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 62 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 8 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:06:10  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 62 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 8 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 7 / 30 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:06:10  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 62 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 8 / 1 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 7 / 30 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+ ESCENA 7 / 31 AGREAGADA AL PLAN UNIDAD 1 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:07:00  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:17:30  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:18:29  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 9 ELIMINADA DEL PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:46:27  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:46:27  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 6 / 8 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:46:27  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 6 / 8 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 14 / 67 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:46:27  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 6 / 8 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 14 / 67 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 15 / 33 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:46:27  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 6 / 8 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 14 / 67 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 15 / 33 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 18 / 56 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:46:27  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 6 / 8 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 14 / 67 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 15 / 33 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 18 / 56 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 19 / 4 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:46:27  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 6 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 6 / 8 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 14 / 67 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 15 / 33 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 18 / 56 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 19 / 4 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+ ESCENA 23 / 30 AGREAGADA AL PLAN UNIDAD 4 20-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:48:14  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 14 / 67 ELIMINADA DEL PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:48:18  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:52:34  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18 / 56 ELIMINADA DEL PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:52:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 23 / 30 ELIMINADA DEL PLAN UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:56:01  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANA: INICIA EN LA UNIDAD 2 #2 (2) - PASA A LA UNIDAD 1 #5.
+ A PLAN DIARIO UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:56:05  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANA: INICIA EN LA UNIDAD 2 #2 (2) - PASA A LA UNIDAD 1 #5.
+ A PLAN DIARIO UNIDAD 2 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:56:10  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANA: INICIA EN LA UNIDAD 2 #2 (2) - PASA A LA UNIDAD 1 #5.
+ A PLAN DIARIO UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:56:48  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANGELITO: INICIA EN LA UNIDAD 4 #5 (2) - PASA A LA UNIDAD 1 #11.
+ A PLAN DIARIO UNIDAD 1 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:56:53  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANGELITO: INICIA EN LA UNIDAD 4 #5 (2) - PASA A LA UNIDAD 1 #11.
+ A PLAN DIARIO UNIDAD 2 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 15:56:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANGELITO: INICIA EN LA UNIDAD 4 #5 (2) - PASA A LA UNIDAD 1 #11.
+ A PLAN DIARIO UNIDAD 4 20-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 16:00:50  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 21-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 40 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 40 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 40.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 40 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 40.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 42 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 40 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 40.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 42 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 42.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:17:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2014 CREADO.
+ ESCENA 10 / 14 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 44.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 27 / 46 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 11 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 12 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 19.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 22 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 24 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 27 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 28 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 29.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 35 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 36 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 37 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 38.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 39 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 40 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 40.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 42 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 42.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+ ESCENA 28 / 42.02 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:53  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:53  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:53  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:53  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:53  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:53  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 15.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:18:53  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 22 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 19 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 45.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 25 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 4.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 7 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 9 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 23 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 32 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 50.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 1 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 15 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 15.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2014
+PLAN DIARIO UNIDAD 2 22-Oct-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 01-OCT-2014 17:26:53
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 01-OCT-2014 17:34:13
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:42:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 22-Oct-2014 CREADO.
+ ESCENA 8 / 9 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:42:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 22-Oct-2014 CREADO.
+ ESCENA 8 / 9 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:42:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 22-Oct-2014 CREADO.
+ ESCENA 8 / 9 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:42:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 22-Oct-2014 CREADO.
+ ESCENA 8 / 9 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 12 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:42:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 22-Oct-2014 CREADO.
+ ESCENA 8 / 9 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 12 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:42:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 22-Oct-2014 CREADO.
+ ESCENA 8 / 9 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 12 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:42:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 22-Oct-2014 CREADO.
+ ESCENA 8 / 9 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 12 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 17 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:42:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 22-Oct-2014 CREADO.
+ ESCENA 8 / 9 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 12 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 17 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 18 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:42:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 22-Oct-2014 CREADO.
+ ESCENA 8 / 9 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 12 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 17 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 18 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 21 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 01-OCT-2014 17:42:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN DIARIO UNIDAD 1 22-Oct-2014 CREADO.
+ ESCENA 8 / 9 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 11.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 12 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 14.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 17 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 18 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 21 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+ ESCENA 8 / 28 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 01-OCT-2014 17:49:38
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 01-OCT-2014 18:49:19
+______________________________________________________________________________________________________________

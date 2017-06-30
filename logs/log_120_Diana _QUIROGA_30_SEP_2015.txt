@@ -1,0 +1,1008 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 30-SEP-2015 10:34:44
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 30-SEP-2015 10:34:48
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 30-SEP-2015 11:40:17
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 30-SEP-2015 12:21:10
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 12:22:18  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 55.01 ELIMINADA DEL PLAN UNIDAD 1 15-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 12:22:18  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 54 ELIMINADA DEL PLAN UNIDAD 1 15-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 12:25:11  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 54 AGREAGADA AL PLAN UNIDAD 1 19-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 12:25:11  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 54 AGREAGADA AL PLAN UNIDAD 1 19-Oct-2015
+ ESCENA 1 / 55.01 AGREAGADA AL PLAN UNIDAD 1 19-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 12:26:17  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 19-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 14:31:30  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 2 / 2 ELIMINADA DEL PLAN UNIDAD 2 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 14:31:30  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 2 2015-10-22 CAMBIA A ESTADO NO INICIADO.
+ ESCENA 2 / 10.02 ELIMINADA DEL PLAN UNIDAD 2 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 14:35:52  190.26.220.34  LA VIUDA NEGRA II
+
+ AGREGADO COMENTARIO 
+CAP 2 ESC 10: SE HACE EN LA OFICINA DEL SEGUNDO PISO. QUE ES COMO UN CUARTO DE MAQUINAS 
+ A PLAN DIARIO UNIDAD 1 14-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 14:39:04  190.26.220.34  LA VIUDA NEGRA II
+
+ AGREGADO COMENTARIO 
+SECUENCIA 7*47 A 8*11 ES EN TIERRA. NO SE SUBEN AL AVION
+ A PLAN DIARIO UNIDAD 1 14-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 15:33:55  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 16 / 22 AGREAGADA AL PLAN UNIDAD 2 19-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 15:38:47  190.26.220.34  LA VIUDA NEGRA II
+
+ AGREGADO COMENTARIO 
+VENUS, DIABLO,VICENTE, ZARCO, ZAPATA  AL TERMINAR VIAJAN A GIRARDOT.
+ A PLAN DIARIO UNIDAD 2 19-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 15:44:04  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 19-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:04:26  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 20-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:08:05  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 20-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:10:39  190.26.220.34  LA VIUDA NEGRA II
+
+ AGREGADO COMENTARIO 
+EL PLANO DE ESTABLECIMIENTO DE LA CASA SEGURIDAD DEA, SE HARA EN MEDELLIN. OTRO DIA
+ A PLAN DIARIO UNIDAD 2 20-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:15:22  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 12/5 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:15:57  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 12/10 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:17:51  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 13 / 3.01 ELIMINADA DEL PLAN UNIDAD 2 21-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:18:52  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 13/3.01 ELIMINADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:31:32  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 23-Oct-2015 A PLAN DIARIO  UNIDAD 1 26-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:38:15  190.26.220.34  LA VIUDA NEGRA II
+ ESCENA 1/28.01 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:38:48  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 28.01 AGREAGADA AL PLAN UNIDAD 1 22-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:46:50  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1/35 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:52:08  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 62 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 48.01 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 25 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 26.01 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 49 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 32.02 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 27 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 28 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 34 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 35 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 33 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:34  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 38 ELIMINADA DEL PLAN UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 16:54:40  190.26.220.34  LA VIUDA NEGRA II
+
+ ELIMINADO COMENTARIO 
+EN CRONOLOGICO PARA ORGANIZAR SEGUN ASIS DIRECCION 
+ PUBLICADO EL DÍA 2015-09-24 EN  PLAN DIARIO UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 62 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 62 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 62 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 26.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 62 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 26.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 32.02 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 62 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 26.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 32.02 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 62 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 26.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 32.02 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 62 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 26.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 32.02 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 35 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 62 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 26.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 32.02 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 35 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 62 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 26.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 32.02 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 35 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 34 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:01:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 1 23-Oct-2015 CREADO.
+ ESCENA 1 / 48.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 49 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 62 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 26.01 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 32.02 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 35 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 34 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 30-SEP-2015 17:25:18
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 59.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 59.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 59.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 8 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 59.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 8 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 9.02 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 59.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 8 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 9.02 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 11.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 59.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 8 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 9.02 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 11.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 59.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 8 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 9.02 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 11.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 59.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 8 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 9.02 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 11.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 44.03 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 59.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 8 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 9.02 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 11.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 44.03 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 21 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:31:46  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 30 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 50.04 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 52 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 4 / 53.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 5 / 4 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 50 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 54 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 57 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 6 / 59.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 3 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 8 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 7 / 9.02 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 11.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 12 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 20 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 11 / 44.03 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 21 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 22.01 AGREAGADA AL PLAN UNIDAD 2 22-Oct-2015
+PLAN DIARIO UNIDAD 2 22-Oct-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:41:26  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:47:02  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 2 / 56.01 ELIMINADA DEL PLAN UNIDAD 2 23-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:47:02  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 2 / 56.02 ELIMINADA DEL PLAN UNIDAD 2 23-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:52:42  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 82 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:52:42  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 1 / 82 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 2 / 63 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:54:59  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 23-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 17:57:29  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 8 / 45 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:00:55  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 20-Oct-2015 A PLAN DIARIO  UNIDAD 1 27-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:01:43  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 21-Oct-2015 A PLAN DIARIO  UNIDAD 1 28-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:03:11  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 22-Oct-2015 A PLAN DIARIO  UNIDAD 1 20-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:04:01  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 23-Oct-2015 A PLAN DIARIO  UNIDAD 1 21-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:05:42  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 27-Oct-2015 A PLAN DIARIO  UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:06:22  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 28-Oct-2015 A PLAN DIARIO  UNIDAD 1 23-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:19:55  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 2 23-Oct-2015 A PLAN DIARIO  UNIDAD 2 26-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:22:22  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2015 CREADO.
+ ESCENA 10 / 31 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:22:22  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2015 CREADO.
+ ESCENA 10 / 31 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 10 / 32 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:22:22  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2015 CREADO.
+ ESCENA 10 / 31 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 10 / 32 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:22:22  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2015 CREADO.
+ ESCENA 10 / 31 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 10 / 32 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 16 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:22:22  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2015 CREADO.
+ ESCENA 10 / 31 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 10 / 32 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 16 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 31.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:22:22  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2015 CREADO.
+ ESCENA 10 / 31 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 10 / 32 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 16 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 31.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 32 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:22:22  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2015 CREADO.
+ ESCENA 10 / 31 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 10 / 32 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 16 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 31.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 32 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 41 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:22:23  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN DIARIO UNIDAD 2 23-Oct-2015 CREADO.
+ ESCENA 10 / 31 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 10 / 32 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 16 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 31.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 32 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 41 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 13 / 42 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:24:55  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 9/50 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:25:22  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 9 / 50 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:28:01  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 10 / 59 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:28:02  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 10 / 59 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+ ESCENA 10 / 59.01 AGREAGADA AL PLAN UNIDAD 2 23-Oct-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:29:45  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 23-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:32:20  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 20-Oct-2015 A PLAN DIARIO  UNIDAD 1 27-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:32:58  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 21-Oct-2015 A PLAN DIARIO  UNIDAD 1 28-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:33:59  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 22-Oct-2015 A PLAN DIARIO  UNIDAD 1 20-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:34:44  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 23-Oct-2015 A PLAN DIARIO  UNIDAD 1 21-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:35:49  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 27-Oct-2015 A PLAN DIARIO  UNIDAD 1 22-Oct-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 30-SEP-2015 18:36:49  190.26.220.34  LA VIUDA NEGRA II
+
+ MOVIENDO PLAN DIARIO 1 28-Oct-2015 A PLAN DIARIO  UNIDAD 1 23-Oct-2015.
+______________________________________________________________________________________________________________

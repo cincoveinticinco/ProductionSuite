@@ -1,0 +1,2005 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-JUL-2014 08:02:35
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-JUL-2014 08:07:03
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-JUL-2014 08:07:05
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-JUL-2014 08:07:08
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-JUL-2014 08:13:01
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 09:38:55  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 4 31-Jul-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 09:44:02  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 61/6.02 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 09:52:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 61/25.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 09:53:03  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 36 / 3 ELIMINADA DEL PLAN UNIDAD 4 31-Jul-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 09:55:16  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 4 31-Jul-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 09:56:02  190.26.220.34  LA FIESTA DEL CHIVO
+
+ AGREGADO COMENTARIO 
+SE CRUZA AGUSTIN Y URANIA EMPIEZAN EN LA U4 Y VAN A LA U2
+ A PLAN DIARIO UNIDAD 4 31-Jul-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 09:57:02  190.26.220.34  LA FIESTA DEL CHIVO
+
+ AGREGADO COMENTARIO 
+SE CRUZA MARIANA EMPIEZA EN LA U2 Y VA A LA U4 EXT. DÍA Y NOCHE (TENER PRESENTE ESTA INFO PARA SU LLAMADO)
+ A PLAN DIARIO UNIDAD 4 31-Jul-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 52 / 20.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 52 / 20.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 56 / 11.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 52 / 20.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 56 / 11.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 32 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 52 / 20.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 56 / 11.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 32 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 33.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 52 / 20.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 56 / 11.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 32 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 33.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 38 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 52 / 20.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 56 / 11.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 32 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 33.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 38 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 52 / 20.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 56 / 11.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 32 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 33.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 38 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 40 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 52 / 20.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 56 / 11.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 32 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 33.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 38 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 40 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 21 / 1 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 52 / 20.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 56 / 11.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 32 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 33.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 38 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 40 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 21 / 1 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 21 / 2 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:11:54  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 07-Aug-2014 CREADO.
+ ESCENA 51 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.03 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 55 / 10.05 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 12.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 58 / 25.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 4.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 27.04 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 60 / 16.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 61 / 25 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 59 / 32.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 49 / 20.02 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 52 / 20.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 56 / 11.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 32 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 33.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 38 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 39.01 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 20 / 40 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 21 / 1 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 21 / 2 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+ ESCENA 33 / 19 AGREAGADA AL PLAN UNIDAD 4 07-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:47:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 4 01-Aug-2014 CREADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:18  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:18  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:18  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:18  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:18  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:50:18  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 30-Jul-2014
+PLAN DIARIO UNIDAD 4 30-Jul-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:51:27  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:09  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:09  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:09  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:09  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:09  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 10:58:10  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 34 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 33 / 37 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 01-Aug-2014
+PLAN DIARIO UNIDAD 4 01-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:07:49  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 30 ELIMINADA DEL PLAN UNIDAD 4 01-Aug-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:07:49  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 37 ELIMINADA DEL PLAN UNIDAD 4 01-Aug-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:07:49  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33 / 34 ELIMINADA DEL PLAN UNIDAD 4 01-Aug-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:09:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 31 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 33 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 24 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 58 / 28 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 59 / 4 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 9.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 11.01 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 14 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 16 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 61 / 19 AGREAGADA AL PLAN UNIDAD 4 02-Aug-2014
+PLAN DIARIO UNIDAD 4 02-Aug-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:11:55  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 4 02-Aug-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:38:56  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 58 / 28 ELIMINADA DEL PLAN UNIDAD 4 02-Aug-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:38:56  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 58 / 24 ELIMINADA DEL PLAN UNIDAD 4 02-Aug-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:38:56  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 59 / 4 ELIMINADA DEL PLAN UNIDAD 4 02-Aug-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:39:56  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 47 / 30.01 ELIMINADA DEL PLAN UNIDAD 4 02-Aug-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:42:48  190.26.220.34  LA FIESTA DEL CHIVO
+ SET INTERIOR CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:42:56  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 61/9 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:43:37  190.26.220.34  LA FIESTA DEL CHIVO
+ SET INTERIOR-VESTIER CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:43:41  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 61/9.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:44:12  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 61/11 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:44:34  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 61/11.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:45:02  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 61/14 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:46:16  190.26.220.34  LA FIESTA DEL CHIVO
+ SET PASILLO SALIDA-INTERIOR CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:47:01  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 61/19 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-JUL-2014 11:49:37  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 61/9.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-JUL-2014 12:06:43
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-JUL-2014 12:06:47
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-JUL-2014 12:34:27
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-JUL-2014 16:14:23
+______________________________________________________________________________________________________________

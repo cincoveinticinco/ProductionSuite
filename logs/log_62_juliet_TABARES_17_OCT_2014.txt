@@ -1,0 +1,1334 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 08:44:40
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 08:52:52
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 08:52:55
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 08:52:57
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 08:53:01
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 08:53:50  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 33 / 23 ELIMINADA DEL PLAN UNIDAD 4 04-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 09:02:51
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 09:14:29
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 09:35:43
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:43:57  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+EL LA PRIMERA PARTE DE LA PERSECUCIÓN, UNIDAD 1, EL CARRO DE ANGELITO PUEDE SER LLEVADO POR DOBLES PARA TENER A LOS ACTORES EN OTRA UNIDAD.
+ A PLAN DIARIO UNIDAD 1 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:44:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+EL LA PRIMERA PARTE DE LA PERSECUCIÓN, UNIDAD 1, EL CARRO DE ANGELITO PUEDE SER LLEVADO POR DOBLES PARA TENER A LOS ACTORES EN OTRA UNIDAD.
+ A PLAN DIARIO UNIDAD 2 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:44:34  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+EL LA PRIMERA PARTE DE LA PERSECUCIÓN, UNIDAD 1, EL CARRO DE ANGELITO PUEDE SER LLEVADO POR DOBLES PARA TENER A LOS ACTORES EN OTRA UNIDAD.
+ A PLAN DIARIO UNIDAD 4 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:50:49  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE YAGO: INICIA EN LA UNIDAD 2 #2 (2) - PASA  A LA UNIDAD 1 #13.
+ A PLAN DIARIO UNIDAD 1 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:50:54  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE YAGO: INICIA EN LA UNIDAD 2 #2 (2) - PASA  A LA UNIDAD 1 #13.
+ A PLAN DIARIO UNIDAD 2 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:50:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE YAGO: INICIA EN LA UNIDAD 2 #2 (2) - PASA  A LA UNIDAD 1 #13.
+ A PLAN DIARIO UNIDAD 4 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:51:51  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANGELITO: INICIA EN LA UNIDAD 2 #1 (2) - PASA  A LA UNIDAD 1 #13.
+ A PLAN DIARIO UNIDAD 1 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:51:55  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANGELITO: INICIA EN LA UNIDAD 2 #1 (2) - PASA  A LA UNIDAD 1 #13.
+ A PLAN DIARIO UNIDAD 2 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:51:59  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANGELITO: INICIA EN LA UNIDAD 2 #1 (2) - PASA  A LA UNIDAD 1 #13.
+ A PLAN DIARIO UNIDAD 4 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:56:31  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE SEISDEDOS: INICIA EN LA UNIDAD 2 #5 (3) - PASA  A LA UNIDAD 1 #13.
+ A PLAN DIARIO UNIDAD 1 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:56:35  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE SEISDEDOS: INICIA EN LA UNIDAD 2 #5 (3) - PASA  A LA UNIDAD 1 #13.
+ A PLAN DIARIO UNIDAD 2 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 09:56:40  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE SEISDEDOS: INICIA EN LA UNIDAD 2 #5 (3) - PASA  A LA UNIDAD 1 #13.
+ A PLAN DIARIO UNIDAD 4 06-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:08:11  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 4 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:08:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+LAS UNIDADES 1 Y 4 DEBEN COINCIDIR EN SUS LLAMADOS PARA QUE SEISDEDOS ESTÉ EN LA ESCENA NOCHE DE LA UNIDAD 4.
+ A PLAN DIARIO UNIDAD 4 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:09:03  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+LAS UNIDADES 1 Y 4 DEBEN COINCIDIR EN SUS LLAMADOS PARA QUE SEISDEDOS ESTÉ EN LA ESCENA NOCHE DE LA UNIDAD 4.
+ A PLAN DIARIO UNIDAD 2 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:09:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+LAS UNIDADES 1 Y 4 DEBEN COINCIDIR EN SUS LLAMADOS PARA QUE SEISDEDOS ESTÉ EN LA ESCENA NOCHE DE LA UNIDAD 4.
+ A PLAN DIARIO UNIDAD 1 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:12:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE YAGO: INICIA EN LA UNIDAD 1 #1 (4) - PASA A LA UNIDAD 2 #8.
+ A PLAN DIARIO UNIDAD 1 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:12:57  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE YAGO: INICIA EN LA UNIDAD 1 #1 (4) - PASA A LA UNIDAD 2 #8.
+ A PLAN DIARIO UNIDAD 2 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:13:01  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE YAGO: INICIA EN LA UNIDAD 1 #1 (4) - PASA A LA UNIDAD 2 #8.
+ A PLAN DIARIO UNIDAD 4 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:13:55  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE LAGARTO: INICIA EN LA UNIDAD 1 #1 (3) - PASA A LA UNIDAD 4 #2 TARDE.
+ A PLAN DIARIO UNIDAD 1 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:13:59  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE LAGARTO: INICIA EN LA UNIDAD 1 #1 (3) - PASA A LA UNIDAD 4 #2 TARDE.
+ A PLAN DIARIO UNIDAD 2 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:14:03  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE LAGARTO: INICIA EN LA UNIDAD 1 #1 (3) - PASA A LA UNIDAD 4 #2 TARDE.
+ A PLAN DIARIO UNIDAD 4 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:14:31  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE SEISDEDOS: INICIA EN LA UNIDAD 1 #1 (4) - PASA A LA UNIDAD 4 #2 TARDE-NOCHE.
+ A PLAN DIARIO UNIDAD 1 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:14:36  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE SEISDEDOS: INICIA EN LA UNIDAD 1 #1 (4) - PASA A LA UNIDAD 4 #2 TARDE-NOCHE.
+ A PLAN DIARIO UNIDAD 2 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:14:40  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE SEISDEDOS: INICIA EN LA UNIDAD 1 #1 (4) - PASA A LA UNIDAD 4 #2 TARDE-NOCHE.
+ A PLAN DIARIO UNIDAD 4 07-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:28:31  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 29 / 66 AGREAGADA AL PLAN UNIDAD 2 08-Nov-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:30:38  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:32:26  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:33:11  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:33:24  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 24 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:13  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 24 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 25 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:13  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 24 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 25 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 57 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:13  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 24 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 25 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 57 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 58 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:13  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 24 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 25 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 57 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 58 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 11 / 13 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:13  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 24 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 25 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 57 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 58 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 11 / 13 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 11 / 14 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:13  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 24 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 25 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 57 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 58 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 11 / 13 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 11 / 14 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 28 / 16 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:13  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 24 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 25 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 57 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 10 / 58 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 11 / 13 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 11 / 14 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 28 / 16 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+ ESCENA 28 / 27.01 AGREAGADA AL PLAN UNIDAD 1 08-Nov-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:36  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 9 / 3 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 9 / 3 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 13 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 9 / 3 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 13 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 17 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 9 / 3 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 13 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 17 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 18 / 58 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 9 / 3 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 13 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 17 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 18 / 58 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 48 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 9 / 3 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 13 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 17 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 18 / 58 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 48 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 42 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 9 / 3 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 13 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 17 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 18 / 58 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 48 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 42 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 6 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 9 / 3 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 13 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 17 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 18 / 58 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 48 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 42 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 6 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 45 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 9 / 3 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 13 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 17 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 18 / 58 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 48 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 42 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 6 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 45 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 46 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:35:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 53 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 8 / 49 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 9 / 3 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 13 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 17 / 17 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 18 / 58 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 26 / 48 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 27 / 42 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 6 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 45 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 28 / 46 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 29 / 7 AGREAGADA AL PLAN UNIDAD 4 08-Nov-2014
+PLAN DIARIO UNIDAD 4 08-Nov-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:36:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:39:14  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18 / 58 ELIMINADA DEL PLAN UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:39:14  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 26 / 48 ELIMINADA DEL PLAN UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:39:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:47:50  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+- GIRALDO PUEDE ESTAR HASTA LAS 6 PM.
+ A PLAN DIARIO UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:55:39  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE EDER: INICIA EN LA UNIDAD 2 #1 (5) - PASA A LA UNIDAD 1 #8.
+ A PLAN DIARIO UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:55:42  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE EDER: INICIA EN LA UNIDAD 2 #1 (5) - PASA A LA UNIDAD 1 #8.
+ A PLAN DIARIO UNIDAD 1 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:55:48  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE EDER: INICIA EN LA UNIDAD 2 #1 (5) - PASA A LA UNIDAD 1 #8.
+ A PLAN DIARIO UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:56:34  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE YAGO: INICIA EN LA UNIDAD 4 #1 (4) - PASA A LA UNIDAD 1 #5.
+ A PLAN DIARIO UNIDAD 1 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:56:38  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE YAGO: INICIA EN LA UNIDAD 4 #1 (4) - PASA A LA UNIDAD 1 #5.
+ A PLAN DIARIO UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:56:41  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE YAGO: INICIA EN LA UNIDAD 4 #1 (4) - PASA A LA UNIDAD 1 #5.
+ A PLAN DIARIO UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:57:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANGELITO: INICIA EN LA UNIDAD 4 #1 (1) - PASA A LA UNIDAD 1 #3.
+ A PLAN DIARIO UNIDAD 1 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:57:16  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANGELITO: INICIA EN LA UNIDAD 4 #1 (1) - PASA A LA UNIDAD 1 #3.
+ A PLAN DIARIO UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:57:21  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANGELITO: INICIA EN LA UNIDAD 4 #1 (1) - PASA A LA UNIDAD 1 #3.
+ A PLAN DIARIO UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:58:32  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE SEISDEDOS: INICIA EN LA UNIDAD 4 #1 (1) - PASA A LA UNIDAD 1 #5.
+ A PLAN DIARIO UNIDAD 1 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:58:36  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE SEISDEDOS: INICIA EN LA UNIDAD 4 #1 (1) - PASA A LA UNIDAD 1 #5.
+ A PLAN DIARIO UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:58:43  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE SEISDEDOS: INICIA EN LA UNIDAD 4 #1 (1) - PASA A LA UNIDAD 1 #5.
+ A PLAN DIARIO UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:59:11  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE CACHALOTE: INICIA EN LA UNIDAD 4 #1 (2) - PASA A LA UNIDAD 1 #7.
+ A PLAN DIARIO UNIDAD 1 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:59:14  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE CACHALOTE: INICIA EN LA UNIDAD 4 #1 (2) - PASA A LA UNIDAD 1 #7.
+ A PLAN DIARIO UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 10:59:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE CACHALOTE: INICIA EN LA UNIDAD 4 #1 (2) - PASA A LA UNIDAD 1 #7.
+ A PLAN DIARIO UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:00:16  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANDADRE: OJO CRUCE DIFICIL - INICIA EN LA UNIDAD 1 #8 (1) - PASA A LA UNIDAD 4 #8.
+ A PLAN DIARIO UNIDAD 1 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:00:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANDADRE: OJO CRUCE DIFICIL - INICIA EN LA UNIDAD 1 #8 (1) - PASA A LA UNIDAD 4 #8.
+ A PLAN DIARIO UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:00:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANDADRE: OJO CRUCE DIFICIL - INICIA EN LA UNIDAD 1 #8 (1) - PASA A LA UNIDAD 4 #8.
+ A PLAN DIARIO UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:00:44  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ELIMINADO COMENTARIO 
+CRUCE ANDADRE: OJO CRUCE DIFICIL - INICIA EN LA UNIDAD 1 #8 (1) - PASA A LA UNIDAD 4 #8.
+ PUBLICADO EL DÍA 2014-10-17 EN  PLAN DIARIO UNIDAD 1 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:00:46  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANDRADE: OJO CRUCE DIFICIL - INICIA EN LA UNIDAD 1 #8 (1) - PASA A LA UNIDAD 4 #8.
+ A PLAN DIARIO UNIDAD 1 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:00:51  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ELIMINADO COMENTARIO 
+CRUCE ANDADRE: OJO CRUCE DIFICIL - INICIA EN LA UNIDAD 1 #8 (1) - PASA A LA UNIDAD 4 #8.
+ PUBLICADO EL DÍA 2014-10-17 EN  PLAN DIARIO UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:00:54  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANDRADE: OJO CRUCE DIFICIL - INICIA EN LA UNIDAD 1 #8 (1) - PASA A LA UNIDAD 4 #8.
+ A PLAN DIARIO UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:01:03  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ELIMINADO COMENTARIO 
+CRUCE ANDADRE: OJO CRUCE DIFICIL - INICIA EN LA UNIDAD 1 #8 (1) - PASA A LA UNIDAD 4 #8.
+ PUBLICADO EL DÍA 2014-10-17 EN  PLAN DIARIO UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:01:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ANDRADE: OJO CRUCE DIFICIL - INICIA EN LA UNIDAD 1 #8 (1) - PASA A LA UNIDAD 4 #8.
+ A PLAN DIARIO UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:02:02  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ERIKA: DEPENDE DE ANDRADE - INICIA EN LA UNIDAD 1 #5 (2) - PASA A LA UNIDAD 4 #9.
+ A PLAN DIARIO UNIDAD 1 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:02:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ERIKA: DEPENDE DE ANDRADE - INICIA EN LA UNIDAD 1 #5 (2) - PASA A LA UNIDAD 4 #9.
+ A PLAN DIARIO UNIDAD 2 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 11:02:11  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ AGREGADO COMENTARIO 
+CRUCE ERIKA: DEPENDE DE ANDRADE - INICIA EN LA UNIDAD 1 #5 (2) - PASA A LA UNIDAD 4 #9.
+ A PLAN DIARIO UNIDAD 4 08-Nov-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 13:24:26  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/25.03 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 13:25:44  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/25.04 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 13:27:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/41 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 13:31:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/46 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 13:41:51  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/58 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 13:43:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/60 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 13:57:31  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 2/25 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 14:05:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 2/77 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 14:13:30  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 2/28.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 14:17:10  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 3/49 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 14:37:42  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 3/40 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 14:51:15  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6/20 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 14:59:21  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6/9 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 15:03:03  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7/31 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 15:04:17  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7/62 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 15:05:39  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7/31 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 15:41:55
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 15:52:49
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:01:51  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:03:42  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/36 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:04:05  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/36.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:04:25  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/37 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:04:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1 / 37 ASIGNADO TIEMPO REAL 00:25 EN PLAN DIARIO UNIDAD 1 29-Sep-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:05:11  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1 / 36 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 1 29-Sep-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:05:25  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1 / 36.01 ASIGNADO TIEMPO REAL 00:20 EN PLAN DIARIO UNIDAD 1 29-Sep-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:05:31  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:05:54  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:08:28  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/25.06 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:08:44  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/25.07 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-OCT-2014 16:09:27
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:11:10  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1 / 25.06 ASIGNADO TIEMPO REAL 00:05 EN PLAN DIARIO UNIDAD 1 07-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:11:24  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1 / 25.07 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 07-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:11:34  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:12:45  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:13:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1/17 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:14:14  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1 / 17 ASIGNADO TIEMPO REAL 1:00 EN PLAN DIARIO UNIDAD 2 14-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:14:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:19:43  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:20:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 2/12 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:21:02  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 2 / 12 ASIGNADO TIEMPO REAL 00:35 EN PLAN DIARIO UNIDAD 1 16-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:21:10  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:24:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 3/49 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:24:51  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 3/67 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:26:03  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:26:48  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 3/40 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:27:00  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 3 / 40 ASIGNADO TIEMPO REAL 00:40 EN PLAN DIARIO UNIDAD 1 03-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:27:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:36:56  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:38:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4/52 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:38:30  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 52 ASIGNADO TIEMPO REAL 03:10 EN PLAN DIARIO UNIDAD 2 03-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:38:42  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:40:18  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4/27 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:40:50  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:41:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4/46.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:42:13  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 4 / 46.01 ASIGNADO TIEMPO REAL 00:15 EN PLAN DIARIO UNIDAD 1 08-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:42:22  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:55:26  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:56:56  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 5/37 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:57:17  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 5 / 37 ASIGNADO TIEMPO REAL 02:15 EN PLAN DIARIO UNIDAD 1 22-Sep-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:57:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:58:35  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:59:15  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 5/20 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:59:44  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 5 / 20 ASIGNADO TIEMPO REAL 02:05 EN PLAN DIARIO UNIDAD 1 23-Sep-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 16:59:50  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:06:16  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6/9 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:06:44  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:08:21  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6/42 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:08:46  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 6 / 42 ASIGNADO TIEMPO REAL 01:10 EN PLAN DIARIO UNIDAD 2 08-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:08:59  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:15:31  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7/31 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:16:16  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:17:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7/38 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:17:39  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7/48 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:18:03  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 38 ASIGNADO TIEMPO REAL 02:05 EN PLAN DIARIO UNIDAD 1 01-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:18:24  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 7 / 48 ASIGNADO TIEMPO REAL 04:55 EN PLAN DIARIO UNIDAD 1 01-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:18:32  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 1 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:36:50  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 8/16 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:37:48  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 8/57 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:38:08  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 8/72 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:38:41  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 8/75 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:39:03  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 8/76 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:43:15  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 9/13 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:52:14  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10/23 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:52:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:53:55  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10/45 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:54:21  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 10 / 45 ASIGNADO TIEMPO REAL 01:14 EN PLAN DIARIO UNIDAD 2 11-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 17:54:32  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:04:18  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 12/10 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:06:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 13/44 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:07:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 13/46 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:07:34  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 13/48 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:07:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 13/49.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:08:24  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 13/50 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:08:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 13/56 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:13:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 14/74 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:13:30  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 14/78 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:13:56  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 14/81 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:14:35  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 14/83 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:24:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 14/14 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:24:54  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 14/34 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:25:29  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 14/105 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:26:15  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:27:38  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 14/107 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:28:05  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 14 / 107 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 2 01-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:28:14  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:34:17  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/3 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:34:50  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/5 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:35:02  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/6 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:35:43  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/7.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:36:02  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/8.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:36:41  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/9 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:37:10  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/10.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:37:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/11 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:38:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/27 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:52:11  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:53:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/57 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:54:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18/27 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:56:01  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 18 / 57 ASIGNADO TIEMPO REAL 01:10 EN PLAN DIARIO UNIDAD 2 15-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 18:56:17  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 19:09:36  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 19/62 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 19:17:42  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 19/62 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 19:18:17  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 REABIERTO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 19:19:11  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 19/11 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 19:19:30  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 19 / 11 ASIGNADO TIEMPO REAL 02:00 EN PLAN DIARIO UNIDAD 2 10-Oct-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-OCT-2014 19:19:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ PLAN UNIDAD 2 22-Sep-2014 CERRADO.
+______________________________________________________________________________________________________________

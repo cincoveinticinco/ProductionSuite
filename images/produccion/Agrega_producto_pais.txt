@@ -1,0 +1,26 @@
+primero catalogo
+	gestionar categorias
+	se elije el pais 
+		productos de categoria
+		agregar producos
+
+Se dirige a gestionar los productos
+ se elije el pais
+	se va a precios
+	en precio se coloca el precio indicado
+
+luego sistema
+	configuracion 
+	se elige el pais
+		home page	
+		count of products to display
+		se cambia el valor
+borrar ambos caches
+
+
+Agregar bandera
+
+	/httpdocs/extras/protected/views/site/facebook2
+
+
+

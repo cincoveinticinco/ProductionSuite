@@ -1,0 +1,502 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 04-JUN-2017 22:27:24
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:32:10  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 19 / 20 AGREAGADA AL PLAN UNIDAD 1 30-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:33:41  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:34:11  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:39:23  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 26-Jun-2017.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:39:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ MOVIENDO PLAN DIARIO 1 26-Jun-2017 A PLAN DIARIO  UNIDAD 1 19-Jun-2017.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:45:28  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 11 / 41 AGREAGADA AL PLAN UNIDAD 1 30-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:45:59  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 12 / 6.02 AGREAGADA AL PLAN UNIDAD 1 30-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:47:16  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 23 / 11 ELIMINADA DEL PLAN UNIDAD 1 28-Jun-2017.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:48:03  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ MOVIENDO PLAN DIARIO 1 28-Jun-2017 A PLAN DIARIO  UNIDAD 1 26-Jun-2017.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:49:50  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 26-Jun-2017.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:50:29  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ MOVIENDO PLAN DIARIO 1 19-Jun-2017 A PLAN DIARIO  UNIDAD 1 28-Jun-2017.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 22:51:30  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 28-Jun-2017.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:02:59  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:02:59  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:03:00  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:03:00  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 48 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:03:00  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 48 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:03:00  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 48 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 33 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:03:01  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 48 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 33 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:03:01  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 48 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 33 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 11 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:03:01  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 48 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 33 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 11 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 12 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:03:01  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 48 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 33 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 11 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 12 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 21 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:03:01  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 48 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 33 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 11 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 12 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 21 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:03:02  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 1 / 37 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 48 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 1 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 33 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 2 / 58 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 11 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 12 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 21 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 40 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 3 / 41 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:51  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:51  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:51  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:51  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:51  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:51  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 28 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 28 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 30 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 28 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 30 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 20 / 46 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 28 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 30 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 20 / 46 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 23 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 28 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 30 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 20 / 46 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 23 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 26 / 15 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 28 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 30 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 20 / 46 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 23 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 26 / 15 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 28 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 30 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 20 / 46 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 23 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 26 / 15 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 27 / 20 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 28 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 30 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 20 / 46 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 23 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 26 / 15 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 27 / 20 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 30 / 12 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:04:52  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 5 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 18 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 7 / 48 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 11 / 10 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 12 / 42 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 17 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 28 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 14 / 30 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 20 / 46 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 23 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 26 / 15 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 27 / 20 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 30 / 12 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+ ESCENA 38 / 26 AGREAGADA AL PLAN UNIDAD 1 29-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:06:49  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 7 / 40 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:06:49  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 7 / 40 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 7 / 40.01 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:06:49  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 7 / 40 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 7 / 40.01 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 26 / 5 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:08:21  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 23 / 23 AGREAGADA AL PLAN UNIDAD 1 28-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:08:21  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 23 / 23 AGREAGADA AL PLAN UNIDAD 1 28-Jun-2017
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 1 28-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:08:21  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 23 / 23 AGREAGADA AL PLAN UNIDAD 1 28-Jun-2017
+ ESCENA 26 / 23 AGREAGADA AL PLAN UNIDAD 1 28-Jun-2017
+ ESCENA 27 / 20 AGREAGADA AL PLAN UNIDAD 1 28-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:09:48  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 7 / 18.01 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:09:48  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 7 / 18.01 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 23 / 2 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:09:48  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 7 / 18.01 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 23 / 2 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 25 / 34 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:09:49  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 7 / 18.01 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 23 / 2 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 25 / 34 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 26 / 4 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:09:49  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 7 / 18.01 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 23 / 2 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 25 / 34 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 26 / 4 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 29 / 44 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:09:49  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 7 / 18.01 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 23 / 2 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 25 / 34 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 26 / 4 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 29 / 44 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 33 / 9 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:09:49  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 7 / 18.01 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 23 / 2 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 25 / 34 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 26 / 4 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 29 / 44 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 33 / 9 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+ ESCENA 35 / 14 AGREAGADA AL PLAN UNIDAD 1 27-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:12:18  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 11 / 38 AGREAGADA AL PLAN UNIDAD 1 30-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:12:18  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ ESCENA 11 / 38 AGREAGADA AL PLAN UNIDAD 1 30-Jun-2017
+ ESCENA 11 / 44 AGREAGADA AL PLAN UNIDAD 1 30-Jun-2017
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:20:50  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 27-Jun-2017.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 04-JUN-2017 23:22:59  189.217.97.182  LA BELLA Y LAS BESTIAS
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 28-Jun-2017.
+______________________________________________________________________________________________________________

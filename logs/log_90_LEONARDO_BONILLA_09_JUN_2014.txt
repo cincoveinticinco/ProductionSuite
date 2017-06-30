@@ -1,0 +1,491 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JUN-2014 09:54:35
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JUN-2014 09:54:38
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JUN-2014 09:54:41
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 12:01:13  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 26 / 7 ELIMINADA DEL PLAN UNIDAD 3 10-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 12:01:13  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 16 / 42 ELIMINADA DEL PLAN UNIDAD 3 10-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 12:01:13  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 26 / 18 ELIMINADA DEL PLAN UNIDAD 3 10-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 12:57:03  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JUN-2014 12:58:29
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 14:28:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 3 20-Jun-2014 CREADO.
+ ESCENA 11 / 32 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 14:28:39  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 3 2014-06-20 CAMBIA A ESTADO NO INICIADO.
+ ESCENA 11 / 32 ELIMINADA DEL PLAN UNIDAD 3 20-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 15:23:19  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 3 21-Jun-2014 CREADO.
+ ESCENA 16 / 42 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 15:23:19  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 3 21-Jun-2014 CREADO.
+ ESCENA 16 / 42 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 26 / 7 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 15:23:19  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 3 21-Jun-2014 CREADO.
+ ESCENA 16 / 42 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 26 / 7 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 26 / 18 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 15:23:19  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 3 21-Jun-2014 CREADO.
+ ESCENA 16 / 42 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 26 / 7 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 26 / 18 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 41 / 28 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 15:49:52  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 3 21-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 15:49:53  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 3 21-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:17:36  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 14 / 1 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:19:05  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 13 / 38 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:19:05  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 13 / 38 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 13 / 40 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:19:05  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 13 / 38 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 13 / 40 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 13 / 41 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:19:05  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 13 / 38 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 13 / 40 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 13 / 41 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+ ESCENA 13 / 41.01 AGREAGADA AL PLAN UNIDAD 3 21-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:21:18  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 13 / 38 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:21:18  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 13 / 38 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 13 / 40 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:21:18  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 13 / 38 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 13 / 40 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 13 / 41 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:21:19  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 13 / 38 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 13 / 40 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 13 / 41 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 13 / 41.01 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:21:19  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 13 / 38 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 13 / 40 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 13 / 41 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 13 / 41.01 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 14 / 1 AGREAGADA AL PLAN UNIDAD 3 20-Jun-2014
+PLAN DIARIO UNIDAD 3 20-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 17:24:50  190.26.220.34  LA FIESTA DEL CHIVO
+
+ AGREGADO COMENTARIO 
+EL CAP 4  ESC 39 TIENE UNA MODIFICACION, CORREO Q SE ENVIO POR SANDRA GONZALEZ 
+ A PLAN DIARIO UNIDAD 1 16-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 18:03:03  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 17-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 18:10:34  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 18-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 18:15:58  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 18-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 18:20:08  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 18:25:47  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 20-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 18:28:37  190.26.220.34  LA FIESTA DEL CHIVO
+
+ AGREGADO COMENTARIO 
+TENER EN CUENTA Q ARISTIDES ESTA CRUZADO 
+COMIENZA CON U2 Y VA A LA U3
+EL LLAMADO DE ARISTIDES  DEBE SER SOBRE EL MEDIO DIA, PARA Q ALCANCE A HACER LAS ESCENAS DE U3 LO DE EL ES EXTERIOR NOCHE 
+ A PLAN DIARIO UNIDAD 2 20-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 18:31:13  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 21-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 18:38:36  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 3 18-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 18:43:31  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 3 21-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 18:45:58  190.26.220.34  LA FIESTA DEL CHIVO
+
+ AGREGADO COMENTARIO 
+CRUCE DE ARISTIDES , COMIENZA CON U2 Y PASA A U3 
+EL LLAMADO DEBE SER SOBRE MEDIO DIA ,PARA Q ESTE EL TIEMPO  NECESARIO CON U3
+ A PLAN DIARIO UNIDAD 3 20-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:34  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 38 / 27 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:34  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 37 / 16 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:34  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 37 / 14 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:34  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 3 / 27 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:34  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:34  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 39 / 33 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:34  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 36 / 30 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 37 / 13 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 35 / 5 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 35 / 5.01 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:07:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 2014-06-19 CAMBIA A ESTADO NO INICIADO.
+ ESCENA 3 / 26.01 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 36 / 30 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 36 / 30 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 13 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 36 / 30 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 13 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 14 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 36 / 30 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 13 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 14 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 16 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 36 / 30 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 13 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 14 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 16 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 38 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:09:40  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 3 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 5.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 36 / 30 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 13 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 14 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 37 / 16 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 38 / 27 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 39 / 33 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+PLAN DIARIO UNIDAD 2 19-Jun-2014 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:11:57  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:12:29  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 3 / 26.01 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:12:30  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 ELIMINADA DEL PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:13:22  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 2 / 27.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:13:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 3 / 26.01 AGREAGADA AL PLAN UNIDAD 2 19-Jun-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JUN-2014 19:14:02  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 19-Jun-2014.
+______________________________________________________________________________________________________________

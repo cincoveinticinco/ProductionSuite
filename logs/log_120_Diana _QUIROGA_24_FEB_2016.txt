@@ -1,0 +1,913 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-FEB-2016 09:14:29
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-FEB-2016 09:14:40
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-FEB-2016 09:14:59
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-FEB-2016 09:26:04
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:29:05  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 28 / 54 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:29:27  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 28 / 52 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:29:47  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 28 / 49 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:29:59  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 28 / 50 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:30:22  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 28 / 53 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:30:35  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 28 / 53.01 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:31:10  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 88 ASIGNADO TIEMPO REAL 00:47 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:31:48  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 62 / 25 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:32:16  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 62 / 32 ASIGNADO TIEMPO REAL 00:20 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:32:36  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 62 / 33 ASIGNADO TIEMPO REAL 00:29 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:32:53  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 62 / 34 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:33:13  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 62 / 43 ASIGNADO TIEMPO REAL 04:08 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:33:58  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 64 / 38.01 ASIGNADO TIEMPO REAL 00:15 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:34:39  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 64 / 48 ASIGNADO TIEMPO REAL 00:24 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:35:20  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 65 / 29 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:35:38  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 65 / 50.01 ASIGNADO TIEMPO REAL 00:19 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:37:01  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 66 / 16 ASIGNADO TIEMPO REAL 00:23 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:40:56  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 34 / 44 ASIGNADO TIEMPO REAL 01:35 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:41:10  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 34 / 46 ASIGNADO TIEMPO REAL 02:00 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:41:35  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 34 / 43 ASIGNADO TIEMPO REAL 01:00 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:41:59  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 34 / 42 ASIGNADO TIEMPO REAL 00:30 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:43:21  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 4 / 55 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:43:35  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 4 / 55.01 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:43:37  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 4 / 55.01 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:43:55  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 4 / 55.02 ASIGNADO TIEMPO REAL 00:05 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:44:10  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 4 / 64 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:44:25  190.26.220.34  LA VIUDA NEGRA II
+
+ LIBRETO 4 CAMBIA A ESTADO PRODUCIDO, EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+ ESCENA 4 / 64.01 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:44:52  190.26.220.34  LA VIUDA NEGRA II
+
+ LIBRETO 4 CAMBIA A ESTADO PRODUCIDO, EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+ ESCENA 4 / 65.02 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:45:11  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 5 / 8 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:45:22  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 5 / 8.01 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 1 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 09:45:39  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN UNIDAD 1 13-Oct-2015 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 10:29:57  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 10:30:09  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 62 / 31.01 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 10:30:21  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 62 / 32 ASIGNADO TIEMPO REAL 00:10 EN PLAN DIARIO UNIDAD 2 23-Feb-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 10:30:31  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN UNIDAD 2 13-Oct-2015 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-FEB-2016 10:48:04
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-FEB-2016 11:24:12
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-FEB-2016 11:24:21
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 12 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 12 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 12 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 1 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 12 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 1 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 7.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 12 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 1 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 7.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 11 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 12 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 1 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 7.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 11 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 15 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 12 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 1 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 7.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 11 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 15 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 16.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 12 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 1 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 7.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 11 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 15 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 16.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 19 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 12 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 1 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 7.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 11 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 15 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 16.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 19 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 20 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 16:53:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 45 / 38 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 11.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 16 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 43 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 46 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 0 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 4 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 5 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 47 / 6 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.02 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 23 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 12 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 13.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 1 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 46 / 7.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 11 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 15 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 16.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 19 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 20 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 48 / 21.01 AGREAGADA AL PLAN UNIDAD 1 18-Mar-2016
+PLAN DIARIO UNIDAD 1 18-Mar-2016 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 17:30:25  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 18-Mar-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-FEB-2016 17:36:17
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-FEB-2016 17:36:56
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 24-FEB-2016 17:57:34  190.26.220.34  LA VIUDA NEGRA II
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 18-Mar-2016.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 24-FEB-2016 18:58:32
+______________________________________________________________________________________________________________

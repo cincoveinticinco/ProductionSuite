@@ -1,0 +1,590 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 07-MAY-2014 09:22:50
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 09:27:50  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 29/33 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 07-MAY-2014 09:44:17
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 10:06:43  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 21/38.10 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 07-MAY-2014 10:07:20
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 07-MAY-2014 10:08:42
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 07-MAY-2014 10:10:19
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 10:29:45  190.26.220.34  LA FIESTA DEL CHIVO
+
+ LIBRETO 34 CAMBIA NOMBRE A CAPITULO 34.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 10:30:36  190.26.220.34  LA FIESTA DEL CHIVO
+
+ LIBRETO 34 ENTREGADO.
+ LIBRETO 34 CAMBIA NÚMERO DE ESCENAS A 41.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 12:11:49  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/1 CREADA.
+ LIBRETO 34 EN PROGRESO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 12:16:22  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/2 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 12:20:02  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/3 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 12:21:50  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/3.1 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 12:25:39  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/4 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 12:27:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 34/3.2 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 12:29:56  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/4 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 12:31:14  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/4.1 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 12:36:24  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/4.2 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 12:39:06  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/5 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 15:22:59  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/6 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 15:43:03  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 14/23 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 15:46:02  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 19/38 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 15:47:29  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 3/40 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 15:52:17  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 24/32 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 07-MAY-2014 15:56:47
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 07-MAY-2014 16:33:34
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 17:00:45  190.26.220.34  LA FIESTA DEL CHIVO
+ LOCACIÓN LOCUTORIO CREADA.
+ SET CABINA TELEFONICA CREADO.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 17:01:28  190.26.220.34  LA FIESTA DEL CHIVO
+ ESCENA 34/7 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 07-MAY-2014 17:44:47
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 17:45:52  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 8/12.1 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:36  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:36  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 2 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:36  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 2 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:36  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 2 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 3.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:36  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 2 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 3.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:36  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 2 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 3.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 8 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:01:36  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 26-May-2014 CREADO.
+ ESCENA 12 / 29 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 31 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 36 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 37 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 12 / 41.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 1.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 2 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 3.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 8 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+ ESCENA 13 / 8.1 AGREAGADA AL PLAN UNIDAD 2 26-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:07:22  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 12/31 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:07:44  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 12/41 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:35:01  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 33/33.1 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:39:53  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 9/9 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:51:51  190.26.220.34  LA FIESTA DEL CHIVO
+
+ ESCENA 1 / 11 ELIMINADA DEL PLAN UNIDAD 2 07-May-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 35 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 35 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 8 / 4 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 35 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 8 / 4 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 9 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 35 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 8 / 4 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 9 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 35 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 8 / 4 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 9 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 32 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 35 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 8 / 4 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 9 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 32 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 37 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 35 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 8 / 4 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 9 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 32 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 37 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 10 / 27 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 35 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 8 / 4 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 9 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 32 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 37 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 10 / 27 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 10 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 35 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 8 / 4 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 9 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 32 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 37 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 10 / 27 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 10 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 10 / 38 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 18:52:48  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 27-May-2014 CREADO.
+ ESCENA 7 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 7 / 35 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 8 / 4 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 9 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 20 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 32 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 9 / 37 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 10 / 27 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 10 / 34 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 10 / 38 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+ ESCENA 11 / 22 AGREAGADA AL PLAN UNIDAD 2 27-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:09:35  190.26.220.34  LA FIESTA DEL CHIVO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 27-May-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 27 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 27 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 31 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 27 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 31 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 5 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 27 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 31 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 5 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 7.2 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 27 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 31 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 5 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 7.2 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 11 / 3 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 27 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 31 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 5 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 7.2 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 11 / 3 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 9 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 27 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 31 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 5 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 7.2 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 11 / 3 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 9 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 25 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 27 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 31 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 5 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 7.2 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 11 / 3 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 9 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 25 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 25.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 27 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 31 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 5 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 7.2 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 11 / 3 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 9 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 25 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 25.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 32 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 07-MAY-2014 19:15:11  190.26.220.34  LA FIESTA DEL CHIVO
+
+ PLAN DIARIO UNIDAD 2 28-May-2014 CREADO.
+ ESCENA 6 / 17.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 27 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 6 / 31 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 5 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 8 / 7.2 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 11 / 3 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 9 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 25 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 25.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 12 / 32 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+ ESCENA 15 / 22.1 AGREAGADA AL PLAN UNIDAD 2 28-May-2014
+______________________________________________________________________________________________________________

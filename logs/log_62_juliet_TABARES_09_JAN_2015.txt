@@ -1,0 +1,1191 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 09:33:12
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 09:33:15
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 09:33:23
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 09:33:28
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 09:49:02
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 10:06:38  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 67 / 29 ELIMINADA DEL PLAN UNIDAD 2 12-Jan-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 10:09:08  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 67/29 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 10:18:26  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 61/22 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 10:25:21  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 09-Jan-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 10:56:47  190.26.220.34  LA ESQUINA DEL DIABLO
+ ESCENA 55/26.1 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 11:51:30
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 11:57:41  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 67/22 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 12:24:14  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 67/9 ELIMINADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 12:32:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 67/15 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 12:34:31  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 67/18 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 15:41:09  190.26.220.34  LA ESQUINA DEL DIABLO
+ ESCENA 64/23 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 15:43:02  190.26.220.34  LA ESQUINA DEL DIABLO
+ ESCENA 64/24 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 15:43:48  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 64 / 24 AGREAGADA AL PLAN UNIDAD 2 08-Jan-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 15:44:43  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 1 / 23 ELIMINADA DEL PLAN UNIDAD 4 09-Jan-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 15:44:56  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 64 / 23 AGREAGADA AL PLAN UNIDAD 4 09-Jan-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 15:45:33
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 15:52:21  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 67/28 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 15:53:22  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 67/29 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 15:55:16  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 67/35 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:03:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/5 ELIMINADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:05:03  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/7 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:05:35  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/8 ELIMINADA.
+ LIBRETO 68 CAMBIA ESTADO EN PROGRESO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:08:51  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/15 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:11:35  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/22 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:11:53  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/22 DUPLICADA A LIBRETO 68/22.01.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:12:17  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/22.01 DUPLICADA A LIBRETO 68/22.02.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:14:08  190.26.220.34  LA ESQUINA DEL DIABLO
+ ELEMENTO FAMILIA Extra (PERSONAJE) CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:14:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/25 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:15:44  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/28 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:17:55  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/32.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:18:22  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/31 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:18:42  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/32 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:26:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/35 ELIMINADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:27:01  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/37 ELIMINADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:30:44  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/46 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:31:19  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/47 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:35:46  190.26.220.34  LA ESQUINA DEL DIABLO
+ ESCENA 68/48 CREADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 16:36:23
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:39:08  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/50 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:40:08  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/52 ELIMINADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:40:17  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 68/53 ELIMINADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:43:42  190.26.220.34  LA ESQUINA DEL DIABLO
+ SET AMANACER CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:43:47  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/5 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:46:43  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/8 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 16:47:57
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 16:49:22
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:51:52  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/13 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:52:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/12 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:53:29  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/15 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:58:11  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/19 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 16:59:38  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/20 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:00:36  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/19 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 09-JAN-2015 17:01:06
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:05  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:05  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 31.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 31.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 32 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 31.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 32 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 31.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 32 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 31.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 32 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 37 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 31.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 32 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 37 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 38 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 31.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 32 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 37 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 38 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 39 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 31.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 32 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 37 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 38 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 39 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 40 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 31.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 32 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 37 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 38 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 39 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 40 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 40.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:08:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 34 / 26 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 27 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 29 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 33.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 44 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 34 / 48 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 3 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 19 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 30 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 31.02 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 32 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 34 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 35 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 37 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 38 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 39 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 40 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 40.01 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+ ESCENA 35 / 41 AGREAGADA AL PLAN UNIDAD 2 06-Feb-2015
+PLAN DIARIO UNIDAD 2 06-Feb-2015 PASA A ESTADO ABIERO PRIVADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:12:02  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/32.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:14:08  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/34.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:16:16  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/39 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:20:03  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/46 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:21:07  190.26.220.34  LA ESQUINA DEL DIABLO
+ ELEMENTO AGENTE.69 Figurante (PERSONAJE) CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:21:12  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/46 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:21:57  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/49 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:23:14  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/49 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:24:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/50 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:24:58  190.26.220.34  LA ESQUINA DEL DIABLO
+ SET PASILLO - HAB CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:25:02  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/52 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:28:02  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 63/28 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:33:46  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/54 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:34:10  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/59 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:34:38  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69/59.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:35:45  190.26.220.34  LA ESQUINA DEL DIABLO
+ SET CALLE - ORILLA CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:36:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/2 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:40:39  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/2 DUPLICADA A LIBRETO 70/2.01.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:41:33  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/2.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:41:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/2.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:44:33  190.26.220.34  LA ESQUINA DEL DIABLO
+ ELEMENTO POLICIA.70.1 Figurante (PERSONAJE) CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:45:01  190.26.220.34  LA ESQUINA DEL DIABLO
+ ELEMENTO POLICIA ADELANTADO1 Figurante (PERSONAJE) CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:45:17  190.26.220.34  LA ESQUINA DEL DIABLO
+ ELEMENTO POLICIA ADELANTADO2 Figurante (PERSONAJE) CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:45:32  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/8 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:48:04  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/8 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:49:25  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/13 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:54:47  190.26.220.34  LA ESQUINA DEL DIABLO
+ SET TUNELES - SALA VENTILACION CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:54:51  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/27 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:55:44  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/27 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:56:31  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/29 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:58:10  190.26.220.34  LA ESQUINA DEL DIABLO
+ SET TUNELES - CELDA CREAD0.
+
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:58:14  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/33 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 17:59:09  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/36 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 18:01:07  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/40 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 18:02:20  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/41 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 18:03:23  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/41 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 18:05:06  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/45 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 18:06:37  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 70/50 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 18:55:41  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 55 / 26.10 AGREAGADA AL PLAN UNIDAD 2 16-Jan-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 19:05:11  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 67 / 22 ELIMINADA DEL PLAN UNIDAD 2 15-Jan-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 19:10:59  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 16-Jan-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 19:13:58  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69 / 20 ELIMINADA DEL PLAN UNIDAD 3 17-Jan-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 19:14:17  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 69 / 20 AGREAGADA AL PLAN UNIDAD 2 15-Jan-2015
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 19:14:41  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 15-Jan-2015.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 19:18:38  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 55/26.01 EDITADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 09-JAN-2015 19:18:44  190.26.220.34  LA ESQUINA DEL DIABLO
+
+ ESCENA 55 / 26.01 ELIMINADA DEL PLAN UNIDAD 2 16-Jan-2015.
+______________________________________________________________________________________________________________

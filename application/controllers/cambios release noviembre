@@ -1,0 +1,27 @@
+insert into categoria_elemento value(null,'Vehículos background',232,'');
+insert into categoria_elemento value(null,'Vehículos background',233,'');
+insert into categoria_elemento value(null,'Vehículos background',234,'');
+insert into categoria_elemento value(null,'Vehículos background',235,'');
+insert into categoria_elemento value(null,'Vehículos background',236,'');
+insert into categoria_elemento value(null,'Vehículos background',237,'');
+insert into categoria_elemento value(null,'Vehículos background',238,'');
+insert into categoria_elemento value(null,'Vehículos background',239,'');
+insert into categoria_elemento value(null,'Vehículos background',240,'');
+insert into categoria_elemento value(null,'Vehículos background',241,'');
+insert into categoria_elemento value(null,'Vehículos background',242,'');
+
+
+insert into categoria_elemento value(null,'Fotos Realización',232,'');
+insert into categoria_elemento value(null,'Fotos Realización',233,'');
+insert into categoria_elemento value(null,'Fotos Realización',234,'');
+insert into categoria_elemento value(null,'Fotos Realización',235,'');
+insert into categoria_elemento value(null,'Fotos Realización',236,'');
+insert into categoria_elemento value(null,'Fotos Realización',237,'');
+insert into categoria_elemento value(null,'Fotos Realización',238,'');
+insert into categoria_elemento value(null,'Fotos Realización',239,'');
+insert into categoria_elemento value(null,'Fotos Realización',240,'');
+insert into categoria_elemento value(null,'Fotos Realización',241,'');
+insert into categoria_elemento value(null,'Fotos Realización',242,'');
+
+
+tabla vehiculosBackground_escena

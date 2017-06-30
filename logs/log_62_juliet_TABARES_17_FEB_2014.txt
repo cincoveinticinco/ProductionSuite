@@ -1,0 +1,933 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-FEB-2014 09:09:19
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-FEB-2014 09:09:48
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 09:53:18  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 15-Feb-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 09:53:58  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 2 15-Feb-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 10:21:16  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ ESCENA 32 / 31 ASIGNADO TIEMPO REAL 01:59 EN PLAN DIARIO UNIDAD 2 15-Feb-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 10:21:51  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN UNIDAD 2 17-Feb-2014 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-FEB-2014 13:13:24
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-FEB-2014 14:44:21
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-FEB-2014 14:44:23
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-FEB-2014 14:44:25
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-FEB-2014 18:19:56
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 11 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 11 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 11 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 11 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 14 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 11 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 14 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 3 / 18 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 11 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 14 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 3 / 18 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 11 / 35 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 11 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 14 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 3 / 18 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 11 / 35 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 10 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 11 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 14 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 3 / 18 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 11 / 35 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 10 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 22 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 11 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 14 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 3 / 18 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 11 / 35 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 10 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 22 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 22 / 14 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:30:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 03-Mar-2014 CREADO.
+ ESCENA 1 / 27 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 28 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 1 / 29 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 3 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 7 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 9 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 10 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 11 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 13 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 13 / 14 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 3 / 18 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 11 / 35 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 10 / 5 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 22 / 12 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 22 / 14 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+ ESCENA 23 / 47 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:31:15  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ ESCENA 36 / 52.1 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 40 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 40 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 41 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:08  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 40 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 41 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 42 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 40 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 41 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 42 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 6 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 40 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 41 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 42 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 6 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 12 / 48.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 40 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 41 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 42 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 6 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 12 / 48.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 12 / 49 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 40 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 41 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 42 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 6 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 12 / 48.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 12 / 49 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 13 / 48 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 40 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 41 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 42 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 6 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 12 / 48.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 12 / 49 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 13 / 48 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 21 / 35 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:33:09  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 04-Mar-2014 CREADO.
+ ESCENA 1 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 26 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 27.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 30 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 33 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 34.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 38 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 39 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 40 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 41 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 1 / 42 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 6 / 25 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 12 / 48.1 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 12 / 49 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 13 / 48 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 21 / 35 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+ ESCENA 22 / 6 AGREAGADA AL PLAN UNIDAD 1 04-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:35:41  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ ESCENA 10 / 13 AGREAGADA AL PLAN UNIDAD 1 03-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 14 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 14 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 17 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 14 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 17 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 19 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 14 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 17 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 19 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 8 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 14 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 17 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 19 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 8 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 14 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 17 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 19 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 8 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 45 / 30 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 14 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 17 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 19 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 8 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 45 / 30 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 2 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 14 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 17 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 19 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 8 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 45 / 30 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 2 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 4 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 14 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 17 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 19 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 8 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 45 / 30 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 2 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 4 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 6 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:41:04  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 06-Mar-2014 CREADO.
+ ESCENA 1 / 1 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 7 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 12 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 14 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 17 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 19 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 8 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 27 / 15 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 45 / 30 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 2 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 4 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 6 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+ ESCENA 1 / 9 AGREAGADA AL PLAN UNIDAD 1 06-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 11 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 11 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 13 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 11 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 13 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 20 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 11 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 13 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 20 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 53 / 2 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 11 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 13 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 20 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 53 / 2 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 47 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 11 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 13 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 20 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 53 / 2 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 47 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 11 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 13 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 20 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 53 / 2 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 47 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 16 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 11 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 13 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 20 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 53 / 2 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 47 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 16 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 18 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 11 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 13 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 20 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 53 / 2 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 47 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 16 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 18 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 10 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:44:03  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 07-Mar-2014 CREADO.
+ ESCENA 53 / 6 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 31 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 11 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 13 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 20 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 53 / 2 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 47 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 15 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 16 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 18 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 1 / 10 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+ ESCENA 48 / 30 AGREAGADA AL PLAN UNIDAD 1 07-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:45:28  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 08-Mar-2014 CREADO.
+ ESCENA 47 / 17 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:45:28  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 08-Mar-2014 CREADO.
+ ESCENA 47 / 17 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:45:28  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 08-Mar-2014 CREADO.
+ ESCENA 47 / 17 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 5 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:45:28  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 08-Mar-2014 CREADO.
+ ESCENA 47 / 17 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 5 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 8 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:45:28  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 08-Mar-2014 CREADO.
+ ESCENA 47 / 17 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 5 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 8 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 44 / 39 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:45:28  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 08-Mar-2014 CREADO.
+ ESCENA 47 / 17 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 5 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 8 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 44 / 39 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 44 / 41 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:45:28  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 08-Mar-2014 CREADO.
+ ESCENA 47 / 17 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 5 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 8 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 44 / 39 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 44 / 41 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 50 / 7 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 18:45:28  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ PLAN DIARIO UNIDAD 1 08-Mar-2014 CREADO.
+ ESCENA 47 / 17 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 2 / 4 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 5 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 8 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 44 / 39 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 44 / 41 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 50 / 7 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+ ESCENA 1 / 3 AGREAGADA AL PLAN UNIDAD 1 08-Mar-2014
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 17-FEB-2014 19:08:21
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 19:15:56  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 03-Mar-2014.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 17-FEB-2014 19:21:44  190.26.220.34  QUIEN MATO A PATRICIA SOLER? 
+
+ MODIFICADO ORDEN ESCENAS PLAN UNIDAD 1 04-Mar-2014.
+______________________________________________________________________________________________________________

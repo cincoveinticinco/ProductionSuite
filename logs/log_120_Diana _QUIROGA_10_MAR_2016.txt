@@ -1,0 +1,373 @@
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 10-MAR-2016 09:23:34
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 10-MAR-2016 09:23:38
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 10-MAR-2016 09:30:28
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ INICIO DE SESIÓN 10-MAR-2016 09:31:28
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 10:26:44  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61/70.06 CANCELADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 10:27:20  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 60/41 CANCELADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 11:46:01  190.26.220.34  LA VIUDA NEGRA II
+
+ PLAN UNIDAD 1 13-Oct-2015 CERRADO.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:24:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61/73 CANCELADA.
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 71.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 71.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 72.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 71.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 72.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 71.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 72.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 71.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 72.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.04 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 71.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 72.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.04 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 78.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 71.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 72.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.04 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 78.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 78.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 71.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 72.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.04 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 78.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 78.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 62 / 17.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 71.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 72.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.04 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 78.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 78.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 62 / 17.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 62 / 19 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+ 10-MAR-2016 12:26:24  190.26.220.34  LA VIUDA NEGRA II
+
+ ESCENA 61 / 42.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 42.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 44 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 45 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 54.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 61 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 66.05 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 68.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 71.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 72.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 76.04 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 78.02 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 61 / 78.03 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 62 / 17.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 62 / 19 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+ ESCENA 62 / 20.01 AGREAGADA AL PLAN UNIDAD 1 10-Mar-2016
+______________________________________________________________________________________________________________
